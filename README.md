@@ -68,7 +68,7 @@ We developed also two mobile apps to stay always updated, thanks to 💌 push no
 | 03/22 - 03/23| [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers)| London |🇬🇧 [United Kingdom](https://www.google.com/maps/search/?api=1&query=10+South+Pl%2C+London+EC2M+7EB%2C+UK)| (( 📢 |
 | 03/26 - 03/27| [Droidcon Boston 2018](http://www.droidcon-boston.com)| Boston |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=Calderwood+Pavilion%2C+527+Tremont+Street%2C+Boston%2C+MA+02116%2C+United+States)| --- |
 | 04/05 - 04/06| [droidcon Italy 2018](http://it.droidcon.com/2018/)| Torino |🇮🇹 [Italy](https://www.google.com/maps/search/?api=1&query=Via+Nizza%2C+280%2C+10126+Torino+TO%2C+Italy)| --- |
-| 04/16 - 04/17| [App Builder 2018](https://appbuilders.ch)| Lugano |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| --- |
+| 04/16 - 04/17| [App Builders 2018](https://appbuilders.ch)| Lugano |🇨🇭 [Switzerland](https://www.google.com/maps/search/?api=1&query=Lugano%2C+Switzerland)| --- |
 | 05/16 - 05/18| [WeAreDevelopers 2018](https://www.wearedevelopers.com/congress/)| Wien |🇦🇹 [Austria](https://www.google.com/maps/search/?api=1&query=Bruno-Kreisky-Platz+1%2C+1220+Wien%2C+Austria)| --- |
 | 06/18 - 06/20| [GOTO Amsterdam 2018](https://gotoams.nl)| Amsterdam |🇳🇱 [Netherlands](https://www.google.com/maps/search/?api=1&query=Beurs+van+Berlage%2C+Damrak+243%2C+1012+ZJ+Amsterdam)| --- |
 | 06/26 - 06/29| [360 iDev](http://360idev.com)| Denver |🇺🇸 [United States](https://www.google.com/maps/search/?api=1&query=1750+Welton+St%2C+Denver%2C+CO+80202%2C+USA)| --- |
